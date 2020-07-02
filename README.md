@@ -11,7 +11,7 @@ A simple app to find your current day horoscope.
 ![Badge](https://img.shields.io/badge/Zodiac-Details-black)
 
 # Introduction ⚒  
-Horoscope is an app which helps the user to find his/her horoscope.This is an simple app which works on API,just search your zodaic sign and get the result, And if you are
+Horoscope is an app which helps the user to find his/her horoscope.This is an simple app which works on API,just search your zodiac sign and get the result, And if you are
 facing any issue to find your horoscope or to know in detail about your horoscope then don't worry we also have a tab which resolves your problem. So build the app and find
 whether the day is good for you or not.
 
