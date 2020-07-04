@@ -42,7 +42,6 @@ whether the day is good for you or not.
 <img width="250" alt="Screenshot 2020-07-02 at 12 48 52 AM" src="https://user-images.githubusercontent.com/56252259/86283117-0a78d600-bbfe-11ea-86ea-c49a424287f0.png">
 <img width="250" alt="Screenshot 2020-07-02 at 12 49 06 AM" src="https://user-images.githubusercontent.com/56252259/86283120-0b116c80-bbfe-11ea-86f4-d663a5b1a1c1.png">
 <img width="250" alt="Screenshot 2020-07-02 at 12 49 12 AM" src="https://user-images.githubusercontent.com/56252259/86283121-0c429980-bbfe-11ea-8112-d438439cc4a2.png">
-<img width="250" alt="Screenshot 2020-07-02 at 12 49 16 AM" src="https://user-images.githubusercontent.com/56252259/86283126-0d73c680-bbfe-11ea-8991-70d2f8f32934.png">
 <img width="250" alt="Screenshot 2020-07-02 at 12 49 36 AM" src="https://user-images.githubusercontent.com/56252259/86283128-0f3d8a00-bbfe-11ea-910b-508a5be914af.png">
 <img width="250" alt="Screenshot 2020-07-02 at 12 48 31 AM" src="https://user-images.githubusercontent.com/56252259/86283140-15cc0180-bbfe-11ea-9cd9-0175b8ab00d2.png">
 
