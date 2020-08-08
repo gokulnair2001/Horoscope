@@ -28,7 +28,7 @@ whether the day is good for you or not.
 * As soon as you build the app you would get a screen, in that at the top in search bar search your Zodiac sign and get the results at one click.⚒ 
 * If you enter wrong sign then you will get an mesg of error.⭕️
 * If you dont know your sign or want to know in detail about it just get it from "My Zodiac".⚛️
-* Click on your zodiac sign given in "My Zodiac" and get everything about it.♈️ 
+* Click on your zodiac sign given in "My Zodiac" and get every info about your zodiac.♈️ 
 * See how simple it is.☺️
 
 # Libraries Used In Project 📒 
